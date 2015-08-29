@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/humishum/Texitcate-JS/issues"
   },
-  "homepage": "https://github.com/humishum/Texitcate-JS#readme"
+  "homepage": "https://github.com/humishum/Texitcate-JS#readme",
+    "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    
+  }
 }
